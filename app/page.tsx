@@ -89,7 +89,7 @@ export default function Page() {
         </Link>
       </div>
       <p className="text-foreground/50 w-full text-sm text-pretty leading-relaxed lg:text-base">
-        Currently studying Information Technology Management at CESAR School and specializing to work as a Data Engineer. I'm building a solid foundation by developing projects using
+        Currently studying Information Technology Management at CESAR School and specializing to work as a Data Engineer. I&apos;m building a solid foundation by developing projects using
         <span className="mx-2 mb-0.5 inline-flex items-center gap-1">
           Python 
           <Tooltip>
