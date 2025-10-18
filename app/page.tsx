@@ -158,7 +158,7 @@ export default function Page() {
           </Tooltip>
         </span>
         and managing
-        <span className="mx-0 mb-0.5 inline-flex items-center gap-1">
+        <span className="mx-0 mb-0.5 inline-flex items-center gap-1">{' '}
           Database
           <Tooltip>
             <TooltipTrigger asChild>
