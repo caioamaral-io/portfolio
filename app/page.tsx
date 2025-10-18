@@ -157,8 +157,8 @@ export default function Page() {
             </TooltipContent>
           </Tooltip>
         </span>
-        and managing
-        <span className="mx-0 mb-0.5 inline-flex items-center gap-1">{' '}
+        and managing{'  '}
+        <span className="mx-0 mb-0.5 inline-flex items-center gap-1">
           Database
           <Tooltip>
             <TooltipTrigger asChild>
