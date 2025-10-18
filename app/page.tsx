@@ -157,8 +157,8 @@ export default function Page() {
             </TooltipContent>
           </Tooltip>
         </span>
-        and managing
-        <span className="mx-0 mb-0.5 inline-flex items-center gap-1">
+        and
+        <span className="mx-2 mb-0.5 inline-flex items-center gap-1">
           Database
           <Tooltip>
             <TooltipTrigger asChild>
@@ -190,7 +190,7 @@ export default function Page() {
               </div>
             </TooltipContent>
           </Tooltip>
-        </span>{' '}
+        </span>
         , with a focus on transforming large volumes of data into clear and useful insights.
       </p>
       <div className="flex flex-col gap-8">
